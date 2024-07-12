@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@bloomreach/discovery-web-sdk':
-        specifier: 1.0.4
-        version: 1.0.4
+        specifier: 1.0.1
+        version: 1.0.1
       autoprefixer:
         specifier: ^10.4.19
         version: 10.4.19(postcss@8.4.38)
@@ -174,9 +174,9 @@ packages:
     resolution: {integrity: sha512-WaMsgi6Q8zMgMth93GvWPXkhAIEobfsIkLTacoVZoK1J0CevIPGYY2Vo5YvJGqyHqXM6P4ppOYGsIRU8MM9pFQ==}
     engines: {node: '>=6.9.0'}
 
-  '@bloomreach/discovery-web-sdk@1.0.4':
-    resolution: {integrity: sha512-f7FHVzrg4DL13OjuG6DDkYUJ44nzbVGBJwSvy15g4ZSbI/wGbeCQgOqZ+4O7ba6AjJxjR1SZ58HLAH1xZeF42A==}
-    engines: {node: '>=20', pnpm: '>=9'}
+  '@bloomreach/discovery-web-sdk@1.0.1':
+    resolution: {integrity: sha512-q88hIMF8OcJQPdqMDwm1hE6sO4oiFhWDawyUdlsPqcQyup10Rw4X5E1tMcBJlJtDdgMfnNYPTuJTrM/fe7Dm0Q==}
+    engines: {node: '>=22', pnpm: '>=9'}
 
   '@esbuild/aix-ppc64@0.20.2':
     resolution: {integrity: sha512-D+EBOJHXdNZcLJRBkhENNG8Wji2kgc9AZ9KiPr1JuZjsNtyHzrsfLRrY0tk2H2aoFu6RANO1y1iPPUCDYWkb5g==}
@@ -1560,7 +1560,7 @@ snapshots:
       '@babel/helper-validator-identifier': 7.24.6
       to-fast-properties: 2.0.0
 
-  '@bloomreach/discovery-web-sdk@1.0.4': {}
+  '@bloomreach/discovery-web-sdk@1.0.1': {}
 
   '@esbuild/aix-ppc64@0.20.2':
     optional: true
