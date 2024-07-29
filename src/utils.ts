@@ -23,3 +23,4 @@ export function getProducts(fl: string) {
 
   return productSearch(configuration, options);
 }
+

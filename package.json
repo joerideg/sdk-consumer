@@ -13,7 +13,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@bloomreach/discovery-web-sdk": "1.0.1",
+    "@bloomreach/discovery-web-sdk": "1.1.0",
+    "@bloomreach/limitless-ui-react": "^0.0.2",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "react": "^18.2.0",
